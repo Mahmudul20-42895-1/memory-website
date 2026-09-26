@@ -1,0 +1,272 @@
+{
+  "hero": {
+    "title": "For Atkia Mubassira Nafisa",
+    "subtitle": "My Jaan",
+    "description": "Some memories deserve to be remembered, even when things aren't the same anymore.",
+    "buttonText": "Enter Our Memories",
+    "imageUrl": "./uploads/1790420383526-kgdiao25l4r.jpeg"
+  },
+  "memories": [
+    {
+      "id": "cmuia4q0d000030e3evyfaev6",
+      "title": "Pohela Boishakh 2025",
+      "date": "14 April 2025",
+      "description": "Pohela Boishakh-এর দিন আমি আর তুমি একসাথে Chef’s Table-এ গিয়েছিলাম। চারপাশে কত মানুষ, কত আয়োজন, কিন্তু আমার কাছে সবচেয়ে সুন্দর ছিল শুধু তুমি আর আমি। সেদিন তোমাকে এত happy দেখেছিলাম, আর তোমার সাথে সেই সময়টা কাটাতে পেরে আমিও ভীষণ happy ছিলাম।\n\nআর রাতের সেই ছোট্ট মুহূর্তটা এখনও আমার মনে আছে। আমি তোমার জন্য একটা ফুল নিয়ে এসেছিলাম। তুমি ফুলটা নিয়ে তোমার কানে গুঁজে রেখেছিলে।\n\nসেদিনের হাসি, তোমার সেই ফুলটা কানে রাখা, আর আমরা দুজন একসাথে ছিলাম \nসেদিন সত্যিই মনে হয়েছিল, আমাদের পৃথিবীটা খুব সুন্দর ছিল।",
+      "imageUrl": "./uploads/1790421036417-4ec00wfg3pp.jpeg"
+    },
+    {
+      "id": "cmuiapoof000130e3438ggmjr",
+      "title": "ঢাকা থেকে রাজশাহী",
+      "date": "",
+      "description": "মনে আছে, আমরা ঢাকা থেকে রাজশাহী যাচ্ছিলাম।\n\nতোমার campus থেকে ছুটি কবে হবে, আমি যেন সেই অপেক্ষাতেই থাকতাম। কবে তোমার ছুটি হবে, কবে তোমাকে নিয়ে রাজশাহীর পথে রওনা দেব, সেই excitement-টা আলাদা ছিল।\n\nতোমার ছুটি হওয়ার অপেক্ষায় আমি বসে থাকতাম, কারণ আমার কাছে আসল destination শুধু রাজশাহী ছিল না, তোমাকে সাথে নিয়ে রাজশাহী যাওয়াটাই ছিল সবচেয়ে সুন্দর ব্যাপার।",
+      "imageUrl": "./uploads/1790421321113-pjm5q114nr.jpeg"
+    },
+    {
+      "id": "cmuiasd1f000230e3tjnewkhb",
+      "title": "Jamuna & Aarong ",
+      "date": "",
+      "description": "মনে আছে, আমরা দুজন একসাথে Jamuna-তে ঘুরতে গিয়েছিলাম। Aarong-এ গিয়ে কী যেন খুঁজছিলাম আমরা, এখন হয়তো ঠিক কী খুঁজছিলাম সেটা মনে নেই, কিন্তু সেদিনের ছোট ছোট মুহূর্তগুলো এখনও মনে আছে।\n\nতুমি আমাকে একটা কাপ আর একটা হাতি কিনে দিয়েছিলে। খুব সাধারণ কিছু জিনিস ছিল, কিন্তু তোমার কাছ থেকে পাওয়া বলে সেগুলো আমার কাছে অন্যরকম হয়ে গিয়েছিল।\n\nসেদিন তোমাকে একটা কথাও বলেছিলাম...\n\n“যেদিন আমরা নিজেদের একটা বাসা নেব, দুজন একসাথে থাকব, সেদিন আবার Aarong থেকে shopping করে নিয়ে যাব। তারপর আমাদের বাসাটা দুজন মিলে সাজাব।”\n\nতখন হয়তো কথাটা শুধু একটা স্বপ্নের মতো ছিল।\nএকটা ছোট্ট বাসা, আমাদের দুজনের পছন্দের জিনিসপত্র, একসাথে shopping, তারপর নিজের হাতে সাজানো একটা সংসার।\n\nসেদিন Aarong-এ ঘুরতে ঘুরতে আমরা হয়তো জানতাম না ভবিষ্যৎ আমাদের কোথায় নিয়ে যাবে। কিন্তু সেই মুহূর্তে আমাদের স্বপ্নটা খুব সহজ ছিল...\n\nএকটা ছোট্ট বাসা, আর সেখানে শুধু তুমি আর আমি। 🤍",
+      "imageUrl": "./uploads/1790421477825-ezw70sfk8oh.jpeg"
+    },
+    {
+      "id": "cmuiayu5f000330e3juno24mo",
+      "title": "ঈদের সেই দিনগুলো",
+      "date": "",
+      "description": "মনে আছে, ঈদের দিনগুলোতে তোমাকে একবারও না দেখে আমি থাকতে পারতাম না। ঈদ আসার আগে থেকেই শুধু একটা excitement কাজ করত, কবে তোমাকে দেখব, কবে তোমার সাথে বের হব।\n\nআমরা দুজন ঘুরতে বের হতাম। একসাথে Pizza Burg-এ গিয়েছিলাম, আর রিকশায় করে কত জায়গায় যে ঘুরেছি!\n\nসেই রিকশার journey-গুলো এখনও মনে পড়ে। তুমি পাশে বসে থাকতে, আর আমি তোমার সাথে গল্প করতে করতে ঘুরতাম। সময় কখন যে চলে যেত, বুঝতেই পারতাম না।\n\nতারপর একটা সময় তুমি বলতে,\n\n“দেখো, ৯টা বেজে গেছে। বাসায় যেতে হবে।”\n\nতখন তোমার ভয় ছিল, বাসায় গিয়ে আব্বু-আম্মু হয়তো বকা দেবে। আর আমি হয়তো তখনও চাইতাম, আরেকটু থাকি, আরেকটু তোমার সাথে ঘুরি।\n\nকখনও ভাবিনি, একদিন আমরা সত্যিই বিয়ে করব।\nতখন মনে হতো, বিয়ে হয়ে গেলে তো আর এই ভয়গুলো থাকবে না। যখন ইচ্ছা হবে, দুজন একসাথে বের হব, ঘুরব, রাত পর্যন্ত গল্প করব।\n\nকিন্তু এখন যখন আমরা সত্যিই বিয়ে করেছি, তখন কেন যেন সেই আগের মতো তুমি আর আমি বের হতে পারছি না।\n\nজীবনটা মাঝে মাঝে কত অদ্ভুত, তাই না?\n\nআর জানো,\nআমি জানি, আমি ভুল করেছি। অনেক কিছুতেই তোমাকে কষ্ট দিয়েছি।\n\nআমি দোষ করেছি, তুমি আমার ওপর রাগ করো, আমাকে বকো, এমনকি রাগ করে একটা চড়ও মেরে দিও কিন্তু আমার কাছ থেকে দূরে চলে যেও না।\n\nকারণ আমার কাছে সেই ঈদের দিনগুলোর সবচেয়ে সুন্দর অংশ ছিল কোনো restaurant, কোনো রিকশা কিংবা কোনো জায়গা না।\n\nসেটা ছিল তুমি। 🤍",
+      "imageUrl": "./uploads/1790421630388-cxdbbqsjud.jpeg"
+    },
+    {
+      "id": "cmuib2ogv000430e3qp783lu4",
+      "title": "ঈদের দিন, আমাদের বাসায় ",
+      "date": "",
+      "description": "মনে আছে, আরেকটা ঈদের দিন তুমি আমাদের বাসায় এসেছিলে।\n\nতুমি আসবে শুনেই বাসার সবাই তোমার জন্য কত কিছু নিয়ে আসছিল, কত আয়োজন করছিল। তোমাকে আমাদের বাসায় আসতে দেখে সবার মধ্যেই একটা আলাদা আনন্দ ছিল।\n\nআর আমার সবচেয়ে বেশি মনে পড়ে আমাদের বাসার ছাদের সেই মুহূর্তটা।\n\nতুমি আমার পাশে ছিলে, আমার গালে একটা পাপ্পি দিয়েছিলে। সেই ছোট্ট মুহূর্তটাও আমার কাছে আজও অনেক বড় একটা memory।\n\nতুমি আমার জন্য সেমাইও নিয়ে এসেছিলে।\nএত ছোট ছোট জিনিসের মধ্যেও তুমি আমাকে কতটা ভালোবাসতে, কতটা care করতে, সেটা হয়তো তখন আমি ঠিকভাবে বুঝতে পারিনি।\n\nতুমি আমাকে ভালোবাসতে।\nআর আমি তোমাকে ভালোবাসতাম।\n\nকিন্তু আমার নিজের frustration, রাগ আর ভেতরের অনেক কিছু সামলাতে না পেরে আমি সেই মানুষটাকেই বারবার hurt করে ফেলেছি, যে মানুষটা আসলে আমার কাছে সবচেয়ে বেশি important ছিল।\n\nসবচেয়ে কষ্টের ব্যাপারটা জানো কী?\n\nআমি তোমাকে এখনও ঠিকভাবে বোঝাতে পারিনি, তুমি আসলে আমার কাছে কী mean করো।\n\nতুমি শুধু আমার জীবনের একটা মানুষ না।\nতুমি আমার কতগুলো সবচেয়ে সুন্দর দিনের অংশ। আমার কতগুলো ছোট ছোট স্বপ্নের অংশ। আমার হাসি, আমার অপেক্ষা, আমার ঈদ, আমার ঘোরাঘুরি, আমার বাসার ছাদ, আমার স্মৃতিগুলোর একটা বিশাল অংশ।\n\nহয়তো আমার আচরণ সবসময় সেটা দেখাতে পারেনি।\n\nহয়তো আমার frustration তোমাকে আমার ভালোবাসার চেয়ে বেশি অনুভব করিয়েছে।\n\nকিন্তু সত্যিটা হলো...\n\nতোমাকে আমি যতটা ভালোবাসি, সেটা হয়তো তোমাকে কখনো ঠিকভাবে বোঝাতে পারিনি।\n\nআর সেই জন্যই আমার সবচেয়ে বেশি আফসোস হয়।",
+      "imageUrl": "./uploads/1790421925769-wtum42pxsoj.jpeg"
+    },
+    {
+      "id": "cmuib9ktu000530e3yb3lelxv",
+      "title": "তোমার চোখ দুটো ",
+      "date": "",
+      "description": "আমি তোমার ওই দুই চোখের দিকে তাকালেই সবসময় গলে যেতাম।\n\nতোমার চোখের দিকে একবার তাকিয়ে যদি দেখতাম তুমি কাঁদছো, আমি আর কিছুই করতে পারতাম না। বাসা থেকে আমাকে যতই কিছু বলা হোক, যতই রাগ বা অভিমান থাকুক, তোমার ওই চোখ দুটো দেখলেই সব থেমে যেত।\n\nআমার সব রাগ, সব অভিমান...\nএক মুহূর্তে কোথায় যেন হারিয়ে যেত।\n\nতুমিও তো এমনই ছিলে।\n\nআমার চোখে একবার পানি দেখলেই তুমি এসে বলতে,\n\n“আচ্ছা, হয়েছে। আর কান্না করতে হবে না। আমি তো আছি। আর এরকম করব না।”\n\nসেই কথাগুলো আমি কীভাবে ভুলব?\n\nতাই মাঝে মাঝে নিজের মনেই প্রশ্ন আসে...\nএখন কেন আর সেইভাবে আসো না?\n\nআমি কখনো তোমাকে disrespect করতে চাইনি। তোমাকে অসম্মান করা আমার উদ্দেশ্য ছিল না। তোমার কিছু কথা আমাকে খুব hurt করেছে, বিশেষ করে যখন তুমি বলেছিলে যে আমি তোমাকে support করিনি।\n\nহয়তো আমি সবসময় আমার support ঠিকভাবে দেখাতে পারিনি। হয়তো আমার frustration, রাগ আর ভুল আচরণের কারণে তোমার কাছে সেটা অন্যরকম মনে হয়েছে।\n\nকিন্তু তোমাকে manipulate করার কোনো ইচ্ছা আমার কখনো ছিল না।\n\nআমি তোমাকে ভালোবেসেছি।\nহয়তো তুমি চাইলে এটাকে one-sided love বলতে পারো।\n\nকিন্তু আমার দিক থেকে ভালোবাসাটা সত্যি ছিল।\n\nঅনেক বেশি সত্যি।\n\nআজও তোমার ওই দুই চোখের কথা মনে পড়লে আমার সব রাগ, সব অভিমান থেমে যায়।\n\nকারণ শেষ পর্যন্ত, আমি তোমাকে খুব ভালোবাসি। ",
+      "imageUrl": "./uploads/1790422106929-4o0bp5u63gb.jpeg"
+    },
+    {
+      "id": "cmuibegdo000630e30xoqy0c1",
+      "title": "Calisto-এর সেই দিন",
+      "date": "",
+      "description": "মনে আছে, একদিন আমরা চারজন ঘুরতে গিয়েছিলাম, আমি, তুমি, Mahin আর ওর girlfriend। আমরা Calisto-তে গিয়েছিলাম।\n\nসেদিন তুমি মজা করে বলছিলে,\n“আমি তো এর সাথে কথা বলতাম, ওর সাথে কথা বলতাম... প্রেম করার জন্য ঘুরতাম, date করে বেড়াতাম।”\n\nআমাদের আড্ডার মধ্যে কত গল্প, কত হাসাহাসি চলছিল। Mahin-এর girlfriend-ও তখন Tuba-কে নিয়ে সেই গল্পটা বলছিল। পুরো সময়টাই ছিল অনেক হাসি আর মজার একটা দিন।\n\nসময়টা তখন কত সহজ ছিল।\n\nএরপর দেখো, Mahin আর ওর girlfriend শেষ পর্যন্ত বিয়েও করে ফেলল। আমাদের দুজনকেও বিয়েতে ডাকছিল।\n\nআমাদেরও যাওয়ার ইচ্ছা ছিল, কিন্তু শেষ পর্যন্ত আমরা যেতে পারলাম না।\n\nআজ পিছনে তাকালে ব্যাপারটা একটু অদ্ভুত লাগে।\n\nএকসাথে ঘুরতে যাওয়া সেই চারজনের মধ্যে দুজন আজ নিজেদের সংসার করছে, আর আমরা দুজনের গল্পটা কোথায় এসে দাঁড়িয়েছে, সেটা শুধু সময়ই জানে।\n\nতবুও Calisto-এর সেই দিনটা মনে পড়লে আমার হাসি পায়।\n\nকারণ তখন আমরা শুধু ঘুরতে গিয়েছিলাম, কিন্তু জানতাম না একদিন এই ছোট ছোট মুহূর্তগুলোই আমাদের সবচেয়ে বেশি মনে পড়বে। ",
+      "imageUrl": "./uploads/1790422475441-rn9ci8nh8p.jpeg"
+    },
+    {
+      "id": "cmuibhgcv000730e3wml3kdib",
+      "title": "তোমার ঘুম, আর আমার অপেক্ষা",
+      "date": "",
+      "description": "দেখো, তুমি কী সুন্দর করে ঘুমাচ্ছো...\n\nআমি তোমার মাথায় হাত বুলিয়ে দিচ্ছি, আর পাশে বসে জেগে আছি। শুধু একটা কারণেই, যেন তোমার ঘুমের মধ্যে কোনো কষ্ট না হয়। তুমি যেন আরামে ঘুমাতে পারো, সেটাই তখন আমার কাছে সবচেয়ে important ছিল।\n\nতুমি যখন অসুস্থ ছিলে, তোমার জন্য খিচুড়ি রান্না করে নিয়ে এসেছিলাম।\n\nহয়তো এগুলো খুব ছোট ছোট ব্যাপার।\nকিন্তু আমার কাছে ভালোবাসা তো এমনই ছিল।\n\nতুমি অসুস্থ হলে তোমার পাশে থাকতে ইচ্ছে করত।\nতুমি ঘুমালে তোমার ঘুমটা একটু আরামদায়ক করতে ইচ্ছে করত।\nতোমার কোনো কষ্ট হলে সেটা নিজের মতো করে কমিয়ে দিতে ইচ্ছে করত।\n\nতখন হয়তো বুঝিনি, কিন্তু এখন বুঝি...\n\nআমি তোমাকে শুধু ভালোবাসিনি, তোমার যত্ন নেওয়ার মধ্যেও আমার ভালোবাসাটা খুঁজে পেতাম।\n\nতোমার পাশে বসে তোমাকে ঘুমাতে দেখা, তোমার মাথায় হাত বুলিয়ে দেওয়া, তোমার জন্য রান্না করে নিয়ে আসা...\n\nএই ছোট ছোট মুহূর্তগুলোই হয়তো আমার কাছে ভালোবাসার সবচেয়ে সত্যি স্মৃতিগুলোর মধ্যে পড়ে।",
+      "imageUrl": "./uploads/1790422654243-i0838rzbyhf.jpeg"
+    },
+    {
+      "id": "cmuibkl3r000830e3io4xycrr",
+      "title": "আদর, রাগ আর রিকশার সেই রাত",
+      "date": "",
+      "description": "মনে আছে, সেদিন আমি তোমাকে কত জ্বালাচ্ছিলাম?\n\nতুমি আমাকে আদর করে, একটু রাগের ভান করে বলছিলে,\n\n“তোমাকে তো মারা দরকার শুধু। তোমাকে না মারলে তোমার শিক্ষা হবে না।”\n\nআর আমি তখন শুধু হাসছিলাম।\n\nতারপর তুমি একটু অভিমান করে বলেছিলে,\n\n“কী? আমাকে কি খালি কষ্টই দাও? আমাকে একটুও বুঝো না?”\n\nতোমার সেই অভিমানী কথাগুলোও তখন আমার কাছে কত আপন লাগত।\n\nএকটু পরেই তুমি বললে,\n\n“কি, বাসায় যাওয়া লাগবে?”\n\nতারপর আমি তোমাকে রিকশায় করে তোমাদের বাসার গলির সামনে পৌঁছে দিয়ে এসেছিলাম।\n\nসেই ছোট্ট রিকশার journey-টাও আজ মনে পড়ে।\n\nকত সাধারণ একটা রাত ছিল।\nএকটু জ্বালানো, একটু রাগ, একটু আদর, একটু অভিমান...\n\nআর দিন শেষে তোমাকে নিরাপদে বাসার গলিতে পৌঁছে দিয়ে আসা।\n\nতখন হয়তো বুঝিনি, এই ছোট ছোট মুহূর্তগুলোই একদিন আমার সবচেয়ে বেশি মনে পড়বে।",
+      "imageUrl": "./uploads/1790422784796-1rm7ui2o1ka.jpeg"
+    },
+    {
+      "id": "cmuibp6cx000930e3ix8s69na",
+      "title": "তোমার দেওয়া মেহেদি",
+      "date": "",
+      "description": "মনে আছে, তুমি আমার হাতে মেহেদি দিয়ে দিয়েছিলে?\n\nতুমি নিজের হাতেও মেহেদি দিয়ে এসেছিলে। তারপর আমাদের বাসায় এসে আমার হাতটা নিজের হাতে নিয়ে মেহেদি দিয়ে দিয়েছিলে।\n\nসেদিন তোমার হাতের ছোঁয়ায় আমার হাতে যে মেহেদি উঠেছিল, সেটা শুধু মেহেদি ছিল না আমার কাছে। এর সাথে তোমার একটা ছোট্ট ভালোবাসার স্মৃতি জড়িয়ে আছে।\n\nআমি জানি, আমি অনেক immature ছিলাম। অনেক কিছু বুঝতে আমার সময় লেগেছে। হয়তো এখনও সবকিছু ঠিকভাবে বুঝি না।\n\nকিন্তু আমি বিশ্বাস করি, মানুষ সময়ের সাথে সাথে বড় হয়, আর নিজের ভুল থেকে ধীরে ধীরে mature হয়। আমিও হবো।\n\nআমরা তো শুধু husband-wife না, আমরা একে অপরের friend-ও ছিলাম, তাই না?\n\nআমাদের মধ্যে কত ঝামেলা হয়েছে, কত রাগ-অভিমান হয়েছে। কখনও কখনও মনে হয়েছে, আমরা দুজন দুজনকে ঠিকভাবে বুঝতেই পারছি না।\n\nকিন্তু আবার এমন সময়ও ছিল, যখন আমরা দুজন দুজনের কষ্ট না বললেও বুঝে যেতাম।\n\nতাই মাঝে মাঝে ভাবি...\n\nআমাদের ঠিক হতে এতটা সময় কেন লাগছে?\n\nআমি জানি, সবকিছু শুধু একটা কথায় ঠিক হয়ে যায় না। আমার ভুলগুলোও আমি অস্বীকার করছি না। আমি ধীরে ধীরে নিজেকে আরও ভালোভাবে বুঝতে এবং বদলাতে শিখছি।\n\nশুধু একটা কথা মনে রেখো...\n\nযদি কোনোদিন সত্যিই তোমার মনে হয়, “আমাকে নিয়ে এসো”, তাহলে আমাকে শুধু একবার বলো।\n\nআমি তোমার কাছে আসব।\n\nকারণ তোমাকে খুঁজে পাওয়ার জন্য আমার কাছে দূরত্ব কখনো বড় ছিল না।\nতুমি ডাকলে আমি তোমার কাছে আসার পথটা খুঁজে নেব।",
+      "imageUrl": "./uploads/1790422927728-rmq8hadwis.jpeg"
+    },
+    {
+      "id": "cmuibudri000a30e3jfpwatmz",
+      "title": "আমাদের Register-এর দিন",
+      "date": "",
+      "description": "দেখো, আমাদের register করার দিনটার কথা মনে আছে?\n\nসেদিন তুমি সবকিছু ফেলে আমার কাছে এসেছিলে। আমার হাত ধরে আমাকে নিয়ে register করেছিলে। সেই দিনটা শুধু একটা date ছিল না, আমার কাছে সেটা ছিল আমাদের দুজনের জীবনের একটা বড় সিদ্ধান্ত।\n\nআমরা কতবার যে ভেবেছি সবকিছু ভেঙে ফেলব...\n\nকিন্তু একটা সম্পর্ক কি এত সহজে ভেঙে ফেলা যায়?\n\nযে সম্পর্কটা আমরা দুজন মিলে লিখেছিলাম, সেটা কি একবার লিখেই শেষ হয়ে যায়?\n\nহয়তো জীবন আমাদের বারবার কঠিন সময়ের মধ্যে নিয়ে যায়। আমাদের ধৈর্য পরীক্ষা করে, আমাদের নিজেদের ভুলগুলো দেখায়, আর বুঝতে শেখায় আমরা একে অপরকে কতটা ভালোবাসি।\n\nতোমার birthday আমার birthday-এর ঠিক সাত দিন আগে কেন, বলো তো?\n\nহয়তো আমাদের দুজনের রাগও একটু বেশি। দুজনেরই অভিমান বেশি। দুজনেই কখনও কখনও নিজের কথাটা ঠিক প্রমাণ করতে গিয়ে একে অপরকে কষ্ট দিয়ে ফেলি।\n\nকিন্তু আমি আর সেই রাগের সাথে লড়াই করতে চাই না।\n\nযদি আমাদের মধ্যে একজনকে শান্ত হতে হয়,\nআমি পানির মতো হয়ে যাব।\n\nতোমার রাগের আগুন নিভিয়ে দেওয়ার জন্য যতটা শান্ত হওয়া দরকার, আমি ততটাই হবো।\n\nআর শুধু পানি না...\n\nআমি তোমার জন্য একটা পুরো সাগর হয়ে যেতে চাই।\n\nযেখানে তোমার সব রাগ, সব অভিমান, সব কষ্ট এসে একটু শান্ত হতে পারে।\n\nআমাদের register-এর সেই দিনের কথা মনে করে শুধু একটা কথাই মনে হয়...\n\nআমরা দুজন একসাথে একটা সম্পর্ক বেছে নিয়েছিলাম। এখন সেটাকে ভালোভাবে ধরে রাখার জন্য আমাকেও আমার নিজের অনেক কিছু বদলাতে হবে।\n\nআমি সেটা শিখছি।\n\nধীরে ধীরে।\nতোমার জন্য।\nআমাদের জন্য।",
+      "imageUrl": "./uploads/1790423139082-gnh47w22y1v.jpeg"
+    },
+    {
+      "id": "cmuiby2ce000b30e3lweoh36y",
+      "title": "Crimson Cup-এর সেই দিন ",
+      "date": "",
+      "description": "Crimson Cup-এ আমরা দুজন একসাথে গিয়েছিলাম, মনে আছে?\n\nতুমি এর আগে তোমার ছোট ভাইয়ের সাথে সেখানে যেতে। তারপর একদিন আমার সাথেও গেলে। সেদিন শুধু তুমি আর আমি ছিলাম।\n\nএই পিচ্চি, এই জান... তোমার কি সত্যিই কিছুই মনে নেই?\n\nআমাদের এমন কত ছোট ছোট জায়গা, কত ছোট ছোট মুহূর্ত আছে, যেগুলো হয়তো তোমার কাছে খুব সাধারণ ছিল। কিন্তু আমার কাছে সেগুলো আমাদের গল্পের অংশ।\n\nCrimson Cup-এ তোমার সাথে বসে থাকা, তোমার সাথে সময় কাটানো, সেই ছোট্ট একটা outing...\n\nআজ মনে করলে বুঝি, আসলে তখনকার সেই সাধারণ দিনগুলোই কত special ছিল।\n\nআর বিয়ের পর...\n\nআমার যত সমস্যাই থাকুক, যত frustration বা রাগই থাকুক, তোমার সাথে আমার সেভাবে আচরণ করা ঠিক হয়নি।\n\nতোমাকে কষ্ট দেওয়া ঠিক হয়নি।\n\nতোমাকে তোমার বাসা থেকে বের করে দেওয়াটাও ঠিক হয়নি।\n\nআজ আমি সেটা বুঝতে পারি।\n\nআমার নিজের সমস্যাগুলো সামলাতে না পেরে তোমাকে সেই কষ্টের মধ্যে ফেলে দেওয়া উচিত ছিল না। তুমি আমার আপন মানুষ ছিলে, আর তোমার কাছ থেকেই আমার সবচেয়ে বেশি নিরাপত্তা আর ভালোবাসা দেওয়ার কথা ছিল।\n\nহয়তো অতীতের সেই ভুলগুলো আমি আর ফিরিয়ে নিতে পারব না।\n\nকিন্তু একটা জিনিস করতে পারি...\n\nসেই ভুলগুলো থেকে শিখতে পারি।\n\nআর তোমাকে বোঝাতে পারি, আমার রাগ বা frustration-এর আড়ালে তোমার প্রতি আমার ভালোবাসাটা কখনো ছোট ছিল না।",
+      "imageUrl": "./uploads/1790423403944-sawognqh93.jpeg"
+    },
+    {
+      "id": "cmuic3ds8000c30e3z2vhutsu",
+      "title": "তোমার Birthday Surprise",
+      "date": "",
+      "description": "তোমার birthday-তে আমি সবসময় তোমাকে surprise দিতে চাইতাম।\n\nপ্রতিটা birthday-তে ভাবতাম, এবার কীভাবে তোমাকে একটু বেশি খুশি করা যায়। তোমার মুখে surprise-এর সেই হাসিটা দেখার জন্য আমার নিজের মধ্যেই একটা আলাদা excitement থাকত।\nকিন্তু এবার পারলাম না।\nজানো কেন?\nকারণ আমি যেভাবে তোমার জন্য করতে চেয়েছিলাম, সেভাবে কিছুই করতে পারছিলাম না।\nআমি তোমার চোখের দিকে ঠিকমতো তাকাতেও পারছিলাম না। যে মানুষটাকে আমি প্রতিটা birthday-তে কোনো না কোনোভাবে surprise দেওয়ার চেষ্টা করেছি, তার birthday-তে এবার একটা টাকাও আলাদা করে রাখতে পারিনি তোমাকে surprise দেওয়ার জন্য।\nএটা আমার নিজের কাছেই খুব খারাপ লাগছিল।\nআমি তোমার জন্য একটা বিড়াল gift করতে চেয়েছিলাম। কারণ আমি জানি, তোমার বিড়াল কতটা পছন্দ।\nমনে মনে ভেবেছিলাম, আমার বউয়ের জন্য এমন কিছু দেব যেটা দেখে তুমি সত্যিই খুশি হবে।\nকিন্তু সেটাও করতে পারিনি।\nসেদিন নিজের কাছেই নিজেকে খুব অসহায় আর বিরক্ত লাগছিল। মনে হচ্ছিল, তোমার জন্য যেটুকু করতে চেয়েছিলাম, তার কিছুই করতে পারছি না।\nকিন্তু একটা জিনিস হয়তো তুমি জানো না...\n\nSurprise দিতে না পারলেও, তোমাকে surprise দেওয়ার ইচ্ছেটা আমার মধ্যে একটুও কমে যায়নি।\nআমি শুধু সেই সময়টায় পারিনি।\nআর হয়তো সেই কারণেই তোমার চোখের দিকে তাকাতে আমার এত কষ্ট হচ্ছিল।\nকারণ তোমার কাছে আমি সবসময় এমন একজন হতে চেয়েছিলাম, যে তোমার birthday-টা special করে তুলবে।\nএইবার সেটা পারিনি, জান।",
+      "imageUrl": "./uploads/1790423568534-irtrbjfccv.jpeg"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "cmuic62tk000d30e366bu2f2a",
+      "title": "রাজশাহী বিশ্ববিদ্যালয়ের সেই দিন",
+      "date": "",
+      "description": "মনে আছে, আমরা দুজন একসাথে রাজশাহী বিশ্ববিদ্যালয়ে ঘুরতে গিয়েছিলাম?",
+      "imageUrl": "./uploads/1790423865536-rly6zopp3ie.jpeg"
+    },
+    {
+      "id": "cmuic9n38000e30e35hgwkjoy",
+      "title": "আমাদের বিয়ের ছবি",
+      "date": "",
+      "description": "সেদিন তোমাকে আমার পাশে দেখে আমার মনে হয়েছিল,\nএই মানুষটার সাথেই তো আমি আমার জীবনটা কাটাতে চেয়েছিলাম।\n\nআমরা দুজন ছিলাম।\nএকটা নতুন জীবনের শুরু ছিল।\nআর আমাদের সামনে ছিল একসাথে অনেকগুলো স্বপ্ন।",
+      "imageUrl": "./uploads/1790423962063-15ab089wsrc.jpg"
+    },
+    {
+      "id": "cmuiccy3e000f30e3f2o3m676",
+      "title": "Register-এর দিনের ছবি",
+      "date": "",
+      "description": "সেদিন তুমি কতটা tired ছিলে। তোমার চোখেমুখেই ক্লান্তিটা বোঝা যাচ্ছিল। এত কিছু সামলে, এত কিছু পেরিয়ে তুমি আমার কাছে এসেছিলে।\n\nমানুষটা, যে সেদিন সবকিছুর পরেও আমার কাছে এসেছিল , সেই দিনটা আমি কোনোদিন ভুলব না। ",
+      "imageUrl": "./uploads/1790424103184-hcyzok7hnqg.jpeg"
+    }
+  ],
+  "apology": {
+    "heading": "I Owe You An Apology",
+    "intro": "Januu Sorry ",
+    "paragraphs": "আমি জানি, আমার রাগ, frustration আর immaturity-এর কারণে তোমাকে অনেক কষ্ট দিয়েছি। এমন কিছু করেছি, যেগুলোর জন্য আজও নিজের কাছেই খারাপ লাগে। বিশেষ করে বিয়ের পর তোমার সাথে যেভাবে আচরণ করেছি, তার জন্য আমি সত্যিই sorry।\nতুমি আমাকে কতটা ভালোবেসেছো, কত যত্ন নিয়েছো, আমাদের কত সুন্দর memory আছে, সেগুলো আমি কখনো ভুলিনি। হয়তো তোমাকে ঠিকভাবে বোঝাতে পারিনি যে তুমি আমার কাছে আসলে কতটা important।\nআমি তোমাকে কখনো manipulate বা disrespect করতে চাইনি। কিন্তু আমার ভুলে তুমি hurt হয়েছো, আর সেই দায়টা আমার।\nআমি এখনও immature, কিন্তু আমি বদলাতে চাই। নিজের ভুল থেকে শিখতে চাই, তোমাকে বুঝতে চাই, আর তোমাকে কষ্ট না দিয়ে ভালোবাসতে চাই।\nতোমার কাছে কোনো জোর বা দাবি নেই।\n\nশুধু একটা কথাই বলব...",
+    "closing": "আমি তোমাকে সত্যিই অনেক ভালোবাসি। আর আমার করা সব কিছুর জন্য মন থেকে ক্ষমা চাই। "
+  },
+  "reflectionCards": [
+    {
+      "id": "cmuicw95b000g30e3ojqird21",
+      "title": "Love & Respect",
+      "description": "I want to love you while also respecting your feelings, opinions, boundaries, and choices.",
+      "icon": "HeartHandshake",
+      "published": true
+    },
+    {
+      "id": "cmuicxjf5000h30e3hqgp8paz",
+      "title": "Becoming More Mature",
+      "description": "I want to learn from my immaturity and become more responsible and emotionally mature.",
+      "icon": "Brain",
+      "published": true
+    },
+    {
+      "id": "cmuicxvcc000i30e30gbofput",
+      "title": "Controlling My Anger",
+      "description": "I will work on controlling my anger and never make major decisions or say hurtful things in anger.",
+      "icon": "Flame",
+      "published": true
+    },
+    {
+      "id": "cmuicydqm000j30e3theilsmw",
+      "title": "Better Communication",
+      "description": "I want to express myself honestly while also listening to you and trying to understand your feelings.",
+      "icon": "MessageCircleHeart",
+      "published": true
+    },
+    {
+      "id": "cmuicyu8k000k30e3napw5u08",
+      "title": "Trust & Emotional Safety",
+      "description": "I want my actions to make you feel safe, respected, and secure in our relationship.",
+      "icon": "ShieldCheck",
+      "published": true
+    },
+    {
+      "id": "cmuicza54000l30e3sypw2f2g",
+      "title": "Breaking the Cycle",
+      "description": "I don't want to keep saying sorry for the same mistakes. I want my actions to show real change.",
+      "icon": "RefreshCw",
+      "published": true
+    },
+    {
+      "id": "cmuiczl4b000m30e3bew8i2tp",
+      "title": "Taking Responsibility",
+      "description": "I will take responsibility for my mistakes instead of making excuses or blaming others.",
+      "icon": "HandHeart",
+      "published": true
+    },
+    {
+      "id": "cmuiczwa2000n30e3d7uxsln1",
+      "title": "Finding Our Friendship Again",
+      "description": "Before being husband and wife, we were also best friends. I want to rebuild that connection.",
+      "icon": "UsersRound",
+      "published": true
+    },
+    {
+      "id": "cmuid08eb000o30e3ohc8s2fx",
+      "title": "Giving You Time",
+      "description": "I won't try to fix everything overnight. I will respect the time and space you need.",
+      "icon": "Clock3",
+      "published": true
+    },
+    {
+      "id": "cmuid0lcj000p30e3hy5m57ub",
+      "title": "Growing Together",
+      "description": "I want to improve myself, my career, my responsibilities, and the way I build our future together.",
+      "icon": "Trending Up",
+      "published": true
+    }
+  ],
+  "hasReflectionCards": true,
+  "rememberMemories": [
+    {
+      "id": "cmuidkl630000cwre0hwfbwvr",
+      "imageUrl": "./uploads/1790426150861-74x8de0p9k.jpeg",
+      "caption": "You told me that no matter what situation we faced, you would always stay by my side. You would hold my hand and stand with me, just like you did that day. You told me to hold your hand and keep walking forward with you.\n\nI just want you to remember those words once again. I know we have made mistakes and hurt each other, but I still believe that if we both truly want to, we can slowly fix everything and find our way back to each other.",
+      "published": true
+    },
+    {
+      "id": "cmuidmwds0001cwrewqrytcpg",
+      "imageUrl": "./uploads/1790426280164-1ufjcfkjb2e.jpeg",
+      "caption": "You gave me this rose and said, “Here, take a rose.” I always used to say, “Atkia never buys Mridul a rose,” and then you gave me one yourself.\n\nI kept that rose with me because it meant so much to me. Do you really remember none of it anymore? Did you forget everything we had?",
+      "published": true
+    },
+    {
+      "id": "cmuidq7sv0002cwreovk12gnu",
+      "imageUrl": "./uploads/1790426482682-o61flg5yu6.png",
+      "caption": "Do you still remember our Holud day? The day we were both so happy, surrounded by our families, celebrating the beginning of our life together. Do you really remember all those moments, or have you forgotten them too?",
+      "published": true
+    },
+    {
+      "id": "cmuidrcx60003cwreoo4wk09x",
+      "imageUrl": "./uploads/1790426546801-7ld4eeaijjw.jpeg",
+      "caption": "Your picture was always in my wallet. I carried it with me everywhere, all the time. But now, you’re not there anymore.\n\nWhat am I supposed to do with all those memories now? Tell me, what am I supposed to do?",
+      "published": true
+    }
+  ],
+  "hasRememberMemories": true,
+  "letter": {
+    "heading": "A Letter To My Jaan",
+    "content": "Jaan,\nI want to try again.\nNot by pretending nothing happened.\nNot by asking you to forget.\nNot by making promises that sound beautiful for a moment.\nI want to fix the problems that I created and become better, whether you see that change immediately or not.\nI don't know if I can repair everything.\nI don't know what you feel right now.\nBut I know that I'm sorry.\nI know I miss you.\nAnd I know I would like the chance to show you that I can do better.\nYou don't have to answer me today.\nIf someday you see that I've genuinely fixed the things I needed to fix, and you feel ready to talk, I'll be here.\nUntil then, I'll respect your space.\nI'm sorry, Jaan.\nAnd thank you for every beautiful memory we made together.",
+    "signature": "Your Jaan"
+  },
+  "finalMessage": {
+    "heading": "If There Is Still A Little Space For Me",
+    "description": "I don't know what tomorrow looks like.\nI don't know whether our story continues in the way I hope.\nBut I know what I want to do now.\nI want to become better.\nI want to fix what I can.\nAnd if one day you feel ready to talk to me again, I hope you'll find me changed, not just sorry.",
+    "buttonText": "When You're Ready, Talk To Me",
+    "contactUrl": null,
+    "imageUrl": null
+  },
+  "music": [
+    {
+      "id": "cmuie7s760007cwre4y9njap4",
+      "songTitle": "Eii_Beely_-_Die_With_A_Smile_(mp3.pm)",
+      "audioUrl": "./uploads/audio/d2770090-2133-42cb-81af-fbf128676c41.mp3"
+    },
+    {
+      "id": "cmuie4yvo0006cwrehj98hr0d",
+      "songTitle": "Mr_Maksud_feat._Shifa_Qassim_-_Sammi_Meri_Waar_(mp3.pm)",
+      "audioUrl": "./uploads/audio/abc62430-584f-45e2-a339-119303d1bfc7.mp3"
+    },
+    {
+      "id": "cmuie2zz50005cwrem52akkim",
+      "songTitle": "Tame_Impala_-_Loser_(mp3.pm)",
+      "audioUrl": "./uploads/audio/6fd3a9ac-d0ca-47b4-aff8-ef40bec4dff1.mp3"
+    },
+    {
+      "id": "cmuidzphw0004cwreuuk7k378",
+      "songTitle": "M_-_Indila_-Love_Story_Version_Orchestrale_(mp3.pm)",
+      "audioUrl": "./uploads/audio/d8acc9f9-6d60-41d3-ba6a-3b8875c39ed7.mp3"
+    }
+  ],
+  "settings": {
+    "websiteTitle": "Memory Website",
+    "browserTitle": "For My Jaan",
+    "primaryColor": "#9a4c4c",
+    "footerText": "Made with memories, regret, and hope.",
+    "contactLink": ""
+  }
+}
